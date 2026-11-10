@@ -1,0 +1,11 @@
+{
+  "name": "Mon Assistant Repas",
+  "short_name": "Mes Repas",
+  "description": "Gestion gratuite des stocks et repas familiaux",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9f7",
+  "theme_color": "#557b68",
+  "icons": []
+}
